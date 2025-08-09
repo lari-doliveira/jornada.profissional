@@ -22,7 +22,7 @@ As tecnologias que pretendo utilizar neste projeto incluem:
 3. Desenvolver versão inicial e publicar no GitHub Pages.
 
 # 📬 Contato
-Você pode me encontrar no LinkedIn [https://www.linkedin.com/in/larissa-oliveira-585062111/] ou enviar um email para **lari.oliveiraa2@gmail.com**.
+Você pode me encontrar no LinkedIn [https://www.linkedin.com/in/larissa-oliveira-585062111/] ou enviar um e-mail para **lari.oliveiraa2@gmail.com**.
 
 # 📈
 Este projeto faz parte do meu processo de aprendizado e evolução na área de tecnologia. Toda ajuda será bem recebida! 
