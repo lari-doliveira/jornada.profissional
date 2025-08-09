@@ -24,5 +24,5 @@ As tecnologias que pretendo utilizar neste projeto incluem:
 # 📬 Contato
 Você pode me encontrar no LinkedIn [https://www.linkedin.com/in/larissa-oliveira-585062111/] ou enviar um e-mail para **lari.oliveiraa2@gmail.com**.
 
-# 📈
+# 📈 Conclusão
 Este projeto faz parte do meu processo de aprendizado e evolução na área de tecnologia. Toda ajuda será bem recebida! 
