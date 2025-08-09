@@ -8,9 +8,7 @@ Criar um site online para:
 - Demonstrar habilidades técnicas adquiridas durante a faculdade e cursos complementares.
 
 # 🚧 Status do Projeto
-Em construção. 
-Atualmente, estou estruturando ideias e conteúdos.  
-O código do site será implementado conforme avanço nos estudos de HTML, CSS, JavaScript e outras tecnologias.
+Em construção. O código do site será implementado conforme avanço nos estudos de HTML, CSS, JavaScript e outras tecnologias.
 
 # 🛠️ Tecnologias Futuras
 As tecnologias que pretendo utilizar neste projeto incluem:
@@ -26,4 +24,5 @@ As tecnologias que pretendo utilizar neste projeto incluem:
 # 📬 Contato
 Você pode me encontrar no LinkedIn [https://www.linkedin.com/in/larissa-oliveira-585062111/] ou enviar um email para **lari.oliveiraa2@gmail.com**.
 
-# 📈 Este projeto faz parte do meu processo de aprendizado e evolução na área de tecnologia. Toda ajuda será bem recebida! 
+# 📈
+Este projeto faz parte do meu processo de aprendizado e evolução na área de tecnologia. Toda ajuda será bem recebida! 
